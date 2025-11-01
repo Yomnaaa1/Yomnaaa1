@@ -21,7 +21,6 @@
   <li><strong>Frontend:</strong> HTML, CSS, JavaScript, Bootstrap, React (basics)</li>
   <li><strong>Backend:</strong> PHP, MySQL, Java</li>
   <li><strong>Programming:</strong> Python, Java, Dart</li>
-  <li><strong>Mobile Development:</strong> Flutter (learning stage)</li>
   <li><strong>Other Tools:</strong> Git & GitHub, VS Code, Figma, Notion</li>
 </ul>
 
